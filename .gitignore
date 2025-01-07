@@ -1,0 +1,4 @@
+.env/
+result/
+__pycache__/
+ideas/
